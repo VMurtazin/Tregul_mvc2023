@@ -14,7 +14,7 @@
 
 <br>
 <br>
-<a href="/askDetails">Пиши сюда детали</a>
+<a href="${pageContext.request.contextPath}/askDetails">Пиши сюда детали</a>
 
 
 </body>
